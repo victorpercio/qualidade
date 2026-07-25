@@ -1,0 +1,6 @@
+{
+  "name": "QualitySync Industry 5.0",
+  "description": "Plataforma de monitoramento térmico, metrologia e inspeção por IA para conformidade industrial baseada nos conceitos de Indústria 5.0 e equipamentos ZEISS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
